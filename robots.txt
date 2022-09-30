@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://stockpict.github.io/sitemap.xml
